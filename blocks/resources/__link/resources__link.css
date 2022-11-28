@@ -1,4 +1,5 @@
 .resources__link{
-  display: block;
+  margin: auto;
   height: inherit;
+  display: flex;
 }
