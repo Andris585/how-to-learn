@@ -2,10 +2,4 @@
   width: 513px;
   height: 316px;
   border: none;
-  list-style: none;
-  padding: 0;
-}
-
-.video__iframe:not(:last-child) {
-  margin-right: 20px;
 }
